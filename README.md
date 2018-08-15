@@ -14,4 +14,4 @@
 
 > 使用bootstrap+PHP实现的音乐播放列表，展示效果点击 [这里](https://ericzlin.github.io/Music/work.gif)，GitHub源码点击 [这里](https://github.com/EricZLin/Music) 
 >
-> tips: 因为执行需要php环境，所以[展示效果](https://ericzlin.github.io/Music/work.gif)是录制的动图，具体效果使用源码更佳
+> tips: 因为执行需要php环境，所以展示效果是录制的动图(加载较慢，耐心等待)，具体效果下载源码查看更佳
