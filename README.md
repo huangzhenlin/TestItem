@@ -23,3 +23,7 @@
 ### 5.购物车宣传页
 
 > CSS3制作的购物车宣传页动画，展示效果点击 [这里](https://ericzlin.github.io/Leaflets/) ，GitHub源码地址点击 [这里](https://github.com/EricZLin/Leaflets) 
+
+### 6.QQ首页
+
+> 使用H5和jQuery插件stellar(产生视觉差滚动效果)仿写的QQ首页 ,展示效果点击 [这里](https://ericzlin.github.io/Homepage/index.html)，GitHub源码点击 [这里](https://github.com/EricZLin/Homepage)
