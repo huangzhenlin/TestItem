@@ -2,7 +2,9 @@
 
 ### 1.轮播图
 
-- **原生JavaScript实现的轮播图**，展示效果点击[这里](https://ericzlin.github.io/Carousel/)，GitHub源码地址点击[这里](https://github.com/EricZLin/Carousel)
+- **原生JavaScript实现的轮播图**，展示效果点击[这里](https://ericzlin.github.io/Carousel/native/index.html)，GitHub源码地址点击[这里](https://github.com/EricZLin/Carousel) 
+
+- **CSS3实现的具有3D切割效果的轮播图**，展示效果点击 [这里](https://ericzlin.github.io/Carousel/3d/index.html) ，GitHub源码地址点击 [这里](https://github.com/EricZLin/Carousel)
 
   
 
