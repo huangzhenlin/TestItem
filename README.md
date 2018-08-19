@@ -29,3 +29,7 @@
 ### 6.QQ首页
 
 > 使用H5和jQuery插件stellar(产生视觉差滚动效果)仿写的QQ首页 ,展示效果点击 [这里](https://ericzlin.github.io/Homepage/index.html)，GitHub源码点击 [这里](https://github.com/EricZLin/Homepage)
+
+### 7.留言板
+
+> Node.js+bootstrap实现的简单的留言板功能，展示效果点击 [这里](https://ericzlin.github.io/Message/work.gif)，GitHub源码地址点击 [这里](https://github.com/EricZLin/Message)
