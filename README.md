@@ -6,7 +6,6 @@
 
 - **CSS3实现的具有3D切割效果的轮播图**，展示效果点击 [这里](https://ericzlin.github.io/Carousel/3d/index.html) ，GitHub源码地址点击 [这里](https://github.com/EricZLin/Carousel)
 
-  
 
 ### 2.贪吃蛇游戏
 
@@ -21,6 +20,7 @@
 ### 4.用户管理系统
 
 - **PHP实现的用户管理系统**，展示效果点击 [这里](https://ericzlin.github.io/phpums/work.gif) ，GitHub源码地址点击 [这里](https://github.com/EricZLin/phpums)
+- **Node.js实现的用户管理系统**，展示效果点击 [这里](https://ericzlin.github.io/nodeums/work.gif) ，GitHub源码地址点击 [这里](https://github.com/EricZLin/nodeums)
 
 ### 5.购物车宣传页
 
