@@ -3,8 +3,8 @@
 ### 1.轮播图
 
 - **原生JavaScript实现的轮播图**，展示效果点击[这里](https://ericzlin.github.io/Carousel/native/index.html)，GitHub源码地址点击[这里](https://github.com/EricZLin/Carousel) 
-
 - **CSS3实现的具有3D切割效果的轮播图**，展示效果点击 [这里](https://ericzlin.github.io/Carousel/3d/index.html) ，GitHub源码地址点击 [这里](https://github.com/EricZLin/Carousel)
+- **swiper 3 插件实现的轮播图**，展示效果点击 [这里](https://ericzlin.github.io/Carousel/swiper/index.html)，GitHub源码点击 [这里](https://github.com/EricZLin/Carousel)
 
 
 ### 2.贪吃蛇游戏
