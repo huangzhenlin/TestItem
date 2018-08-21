@@ -33,3 +33,8 @@
 ### 7.留言板
 
 > Node.js+bootstrap实现的简单的留言板功能，展示效果点击 [这里](https://ericzlin.github.io/Message/work.gif)，GitHub源码地址点击 [这里](https://github.com/EricZLin/Message)
+
+### 8.移动端项目
+
+- 仿写京东移动端首页和分类页，展示效果(请在移动设备模式下查看)点击 [这里](https://ericzlin.github.io/Mobilejd/index.html)，GitHub源码点击 [这里](https://github.com/EricZLin/Mobilejd)
+
