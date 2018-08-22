@@ -36,5 +36,8 @@
 
 ### 8.移动端项目
 
-- 仿写京东移动端首页和分类页，展示效果(请在移动设备模式下查看)点击 [这里](https://ericzlin.github.io/Mobilejd/index.html)，GitHub源码点击 [这里](https://github.com/EricZLin/Mobilejd)
+> 请在移动设备模式下查看
 
+- 仿写京东移动端首页和分类页，展示效果点击 [这里](https://ericzlin.github.io/Mobilejd/index.html)，GitHub源码地址点击 [这里](https://github.com/EricZLin/Mobilejd)
+
+- 仿写苏宁移动端首页(zepto+less编写)，展示效果点击 [这里](https://ericzlin.github.io/Mobilesn/index.html)，或gif图[展示效果](https://ericzlin.github.io/Mobilesn/work.gif)，GitHub源码点击 [这里](https://github.com/EricZLin/Mobilesn) 
