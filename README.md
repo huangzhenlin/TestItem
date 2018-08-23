@@ -21,6 +21,7 @@
 
 - **PHP实现的用户管理系统**，展示效果点击 [这里](https://ericzlin.github.io/phpums/work.gif) ，GitHub源码地址点击 [这里](https://github.com/EricZLin/phpums)
 - **Node.js实现的用户管理系统**，展示效果点击 [这里](https://ericzlin.github.io/nodeums/work.gif) ，GitHub源码地址点击 [这里](https://github.com/EricZLin/nodeums)
+- **Vue、webpack开发实现的用户管理系统** ，展示效果点击 [这里](https://ericzlin.github.io/vueums/work.gif)，GitHub源码点击 [这里](https://github.com/EricZLin/vueums) 
 
 ### 5.购物车宣传页
 
