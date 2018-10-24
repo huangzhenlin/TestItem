@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0,user-scalable=no">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>轮播图</title>
+    <!-- 引入swiper3.0 css文件 -->
+    <link rel="stylesheet" href="lib/swiper.min.css">
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+    <!-- 版心 -->
+    <div class="container">
+        <!-- 轮播图 -->
+        <div class="swiper-container">
+            <div class="swiper-wrapper">
+                <div class="swiper-slide">
+                    <a href="#"><img src="../images/1.jpg" alt=""></a>
+                </div>
+                <div class="swiper-slide">
+                    <a href="#"><img src="../images/2.jpg" alt=""></a>
+                </div>
+                <div class="swiper-slide">
+                    <a href="#"><img src="../images/3.jpg" alt=""></a>
+                </div>
+                <div class="swiper-slide">
+                    <a href="#"><img src="../images/4.jpg" alt=""></a>
+                </div>
+            </div>
+            <!-- 分页器 -->
+            <div class="swiper-pagination"></div>
+            <!-- 导航按钮 -->
+            <div class="swiper-button-prev"></div>
+            <div class="swiper-button-next"></div>
+            <!-- 滚动条 -->
+            <div class="swiper-scrollbar"></div>
+        </div>
+    </div>
+    <!-- 引入swiper3.0插件脚本 -->
+    <script src="lib/swiper.min.js"></script>
+    <!-- js初始化脚本 -->
+    <script>
+       window.onload=function(){
+            /* 轮播图 */
+            new Swiper('.swiper-container',{
+                autoplay:1000, //是否自动滚动
+                speed: 500, //滚动速速
+                loop:true,//是否循环
+                pagination:'.swiper-pagination',//分页器
+                paginationClickable: true,//点击分页器是否可用
+                nextButton: '.swiper-button-next',//右按钮
+                prevButton: '.swiper-button-prev',//左按钮 
+                autoplayDisableOnInteraction:false,//重新启动autoplay
+                scrollbar: '.swiper-scrollbar',//滚动条       
+            });
+       }
+    </script>
+</body>
+</html>

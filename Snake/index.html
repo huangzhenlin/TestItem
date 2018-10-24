@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>贪吃蛇游戏</title>
+    <style>
+        .map{
+            width: 800px;
+            height: 600px;
+            background: #ccc;
+            position: relative;
+        }
+        .start{
+            width: 800px;
+            height: 40px;
+            line-height: 40px;
+            text-align: center;
+            margin-top: 5px;
+        }
+        .start span, .start button{
+            font-size: 25px;
+        }
+    </style>
+</head>
+<body>
+    <div class="map"></div>
+    <div class="start">
+        <span>请使用方向键控制蛇的方向</span>
+        <button id="btn">开始游戏</button>
+    </div>
+    <script src="js/food.js"></script>
+    <script src="js/snake.js"></script>
+    <script src="js/game.js"></script>
+</body>
+<script>
+    document.getElementById('btn').onclick=function(){
+        //初始化游戏对象
+        var gm = new Game(document.querySelector(".map"));
+        //初始化游戏---开始游戏
+        gm.init();
+    }
+</script>
+</html>

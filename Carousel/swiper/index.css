@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+}
+.container {
+    position: relative;
+    width: 750px;
+    margin: 0 auto;
+}
+.swiper-container {
+    width: 590px;
+    height: 470px;
+}     

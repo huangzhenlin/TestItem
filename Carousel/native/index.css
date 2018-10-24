@@ -1,0 +1,70 @@
+/* ------reset css----- */
+div,ul,li,img{
+    margin: 0;
+    padding: 0;
+}
+ol,li{
+    list-style: none;
+}
+img{
+    border: none;
+    vertical-align: top;
+}
+/* carousel css */
+#carousel{
+    width: 590px;
+    height: 470px;
+    margin: 100px auto 0;
+    position: relative;
+    overflow: hidden;
+}
+#carousel .inner{
+    width: 2950px;
+    height: 100%;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+#carousel .inner img{
+    width: 20%;
+    height: 100%;
+    float: left;
+}
+#carousel ol{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
+#carousel ol li{
+    margin: 0 5px;
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+    background: #fff;
+    color: #000;
+    text-align: center;
+    cursor: pointer;
+    border-radius: 50%;
+}
+#carousel ol .current{
+    background: rgb(255, 0, 0);
+}
+#carousel #arr span{
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    left: 5px;
+    top: 50%;
+    margin-top: -20px;
+    background: #000;
+    color: #fff;
+    text-align: center;
+    opacity: 0.5;
+    cursor: pointer;
+    font: normal 700 30px/40px 黑体;
+}
+#carousel #arr span:last-child{
+    left: auto;
+    right: 5px;
+}

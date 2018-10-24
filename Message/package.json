@@ -1,0 +1,24 @@
+{
+  "name": "Message",
+  "version": "1.0.0",
+  "description": "Node.js+bootstrap实现简单的留言板功能",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EricZLin/Message.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EricZLin/Message/issues"
+  },
+  "homepage": "https://github.com/EricZLin/Message#readme",
+  "dependencies": {
+    "art-template": "^4.12.2",
+    "bootstrap": "^3.3.7"
+  }
+}
