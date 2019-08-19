@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/EricZLin/nodeums.git"
+    "url": "git+https://github.com/huangzhenlin/nodeums.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/EricZLin/nodeums/issues"
+    "url": "https://github.com/huangzhenlin/nodeums/issues"
   },
-  "homepage": "https://github.com/EricZLin/nodeums#readme",
+  "homepage": "https://github.com/huangzhenlin/nodeums#readme",
   "dependencies": {
     "art-template": "^4.12.2",
     "body-parser": "^1.18.3",

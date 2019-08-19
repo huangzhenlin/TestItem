@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/EricZLin/Message.git"
+    "url": "git+https://github.com/huangzhenlin/Message.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/EricZLin/Message/issues"
+    "url": "https://github.com/huangzhenlin/Message/issues"
   },
-  "homepage": "https://github.com/EricZLin/Message#readme",
+  "homepage": "https://github.com/huangzhenlin/Message#readme",
   "dependencies": {
     "art-template": "^4.12.2",
     "bootstrap": "^3.3.7"
