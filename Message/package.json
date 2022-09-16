@@ -19,6 +19,6 @@
   "homepage": "https://github.com/huangzhenlin/Message#readme",
   "dependencies": {
     "art-template": "^4.12.2",
-    "bootstrap": "^3.3.7"
+    "bootstrap": "^3.4.1"
   }
 }
